@@ -49,6 +49,3 @@ This project leverages Big Data tools and machine learning techniques to detect 
 ### Notes:
 - For additional guidance, refer to the `Kafka_Server_Setup.ipynb` notebook.
 - Ensure all required dependencies and configurations are correctly set up to avoid runtime issues.
-- For any EC2 cluster details email at sgupt132@ucr.edu
-
-For further queries, please contact the team members via the provided emails.

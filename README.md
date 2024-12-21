@@ -7,7 +7,7 @@ Credit Card Fraud Detection Using Big Data Analytics
    Student ID: 862548182  
 
 ### Project Description:
-This project leverages Big Data tools and machine learning techniques to detect fraudulent credit card transactions in real-time. The implementation uses Kafka for streaming, Spark for processing, MLlib for predictions, and Grafana for visualization.
+This project leverages Big Data tools and machine learning techniques to detect fraudulent credit card transactions in real-time. The implementation uses Kafka for streaming, Spark for processing, MLlib for predictions, and Plotly for visualization.
 
 ### Running the Project:
 1. Start Kafka Server and Zookeeper:
